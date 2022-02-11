@@ -1,6 +1,6 @@
 # Aplicación Reloj
 
-<img src='RelojDigital.png' alt='Reloj Digital' >
+<img src='images/RelojDigital.png' alt='Reloj Digital' >
 
 # Autor
 ## Elkin Murillo
