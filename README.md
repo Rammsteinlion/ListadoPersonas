@@ -1,2 +1,2 @@
-# ListadoPersonas
-Aplicación listado de personas 
+# Reloj Digital
+Aplicación Reloj
